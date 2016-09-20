@@ -2,7 +2,7 @@
 
 > Bonsucesso is a light color scheme for [Sublime Text](http://sublimetext.com) that brings contrast as a feature to rest your eyes.
 
-![Screenshot](/../master/screenshot.png?raw=true)
+![Screenshot](http://d.pr/i/17ggj.png)
 
 ### What's Bonsucesso?
 
